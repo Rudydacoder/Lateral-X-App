@@ -1,0 +1,8 @@
+{
+  "name": " Lateral-X ",
+  "description": "The Lateral-X Companion App is the interface for our active soft exosuit designed to prevent lateral falls in the elderly. Built with Flutter, this application serves as the \"brain\" of the system, visualizing real-time sensor data and managing the connection between the user and the exosuit hardware.\n\nIt bridges the gap between raw hardware data (ESP32) and actionable medical insights, providing a real-time \"Drift Detection\" heatmap to visualize balance instability before a fall occurs.",
+  "requestFramePermissions": [
+    "camera",
+    "bluetooth"
+  ]
+}
